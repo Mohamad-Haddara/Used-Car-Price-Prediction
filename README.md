@@ -9,9 +9,9 @@ Built an SVR-based regression model to estimate used car prices using multiple v
 5) Evaluate using R², MAE, MSE
 
 # Sample Results
-R² Score: 0.79
-MAE: 0.26
-MSE: 0.13
+* R² Score: 0.79
+* MAE: 0.26
+* MSE: 0.13
 
 # Tech Used
 1) Python
